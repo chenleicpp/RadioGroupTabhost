@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    透明度 十进制 十六进制
+    10%透明 25 19
+    15%透明 38 26
+    20%透明 51 33
+    25%透明 64 40
+    30%透明 76 4C
+    35%透明 89 59
+    40%透明 102 66
+    45%透明 115 73
+    50%透明 127 7F
+    55%透明 140 8C
+    60%透明 153 99
+    65%透明 166 A6
+    70%透明 178 B2
+    75%透明 191 BF
+    80%透明 204 CC
+    85%透明 217 D9
+    90%透明 229 E5
+    95%透明 242 F2-->
+
+    <color name="common_theme_color">#0085d0</color>
+	<color name="app_bg_color">#f5f5f5</color>
+    <color name="sign_in_editor_line_normal">#FFAAAAAA</color>
+    <color name="inverse_theme_color">#ff7fbe26</color>
+    <color name="inverse_theme_color_lighter">#ff92c846</color>
+    <color name="tab_indicator_bg_normal">#e4e4e4</color>
+    <color name="tab_indicator_bg_selected">#ffdddddd</color>
+    <color name="light_gray">#ffbbbbbb</color>
+    <color name="orange">#ffF8A700</color>
+    <color name="orange_lighter">#ccF8A700</color>
+    
+
+    <color name="clear">#00000000</color>
+    <color name="titlebar_button_pressed">#B2ffffff</color>
+    <color name="gray_black">#ff333333</color>
+
+    <color name="lighter_gray">#ffcccccc</color>
+    <color name="med_gray">#ff999999</color>
+    <color name="gray">#ff666666</color>
+    <color name="dark_gray">#ff444444</color>
+
+    <color name="full_transparent">#00000000</color>
+    <color name="tv_back">#ffffff</color>
+    <color name="title_bg">#ffffff</color>
+    <color name="title_bg2">#73ffffff</color>
+    
+    <color name="tv_color">#b2ffffff</color>
+    <color name="edittext_color">#40ffffff</color>
+    <color name="btn_text_color">#7d7d7d</color>
+    <color name="btn_text_color2">#888888</color>
+    <color name="btn_bg_color">#99ffffff</color>
+    <color name="btn_bg_color_pressed">#4cffffff</color>
+    <color name="btn_verify_code_color">#7fffcc00</color>
+    <color name="tv_forget_pwd_color">#992b2b2b</color>
+
+    <color name="view_line_color">#99ffffff</color>
+    <color name="common_bg_color">#f7f7f7</color>
+
+    <color name="common_health_archive">#006299</color>
+    <color name="common_section_key">#666666</color>
+    <color name="common_section_value">#656565</color>
+    <color name="common_text_color">#464646</color>
+
+    <color name="common_section_selected">#eeeeee</color>
+
+    <color name="trans">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+
+    <color name="tab_bg_normal">#e4e4e4</color>
+    <color name="tab_bg_select">#9966FF</color>
+    <color name="tab_splite_line">#CC66FF</color>
+    <color name="item_title_bg">#993366</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="tv_color_radio_btn">#0085d0</color>
+    <color name="tv_color_radio_btn_clicked">#f39803</color>
+
+    <color name="tv_color_health_log_time">#959595</color>
+
+    <color name="popup_bg">#FFFFFF</color>
+
+    <color name="listitem_black">#ff000000</color>
+    
+    <color name="archive_icon_male_border">#0085d0</color>
+    <color name="archive_icon_female_border">#fe65ba</color>
+    <color name="archive_fragment_info">#096499</color>
+    <color name="archive_fragment_data">#bf2324</color>
+    <color name="archive_fragment_history">#0a732e</color>
+    
+</resources>
